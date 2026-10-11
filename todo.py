@@ -1,0 +1,2 @@
+print("hellloo")
+input("good&")
